@@ -14,4 +14,4 @@ Living in Rockland County NY.
 
 ### Contact me
 
-[email@domain.com](mailto:eip003@bucknell.edu)
+[eip003@bucknell.edu](mailto:eip003@bucknell.edu)
